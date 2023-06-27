@@ -1,2 +1,0 @@
-C:\BellyPot\C projects on visual studio\testing\Debug\testing.exe
-C:\BellyPot\C projects on visual studio\testing\Debug\testing.pdb

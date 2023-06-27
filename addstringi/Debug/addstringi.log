@@ -1,3 +1,0 @@
-﻿  Source.c
-C:\BellyPot\C projects on visual studio\addstringi\Source.c(10,6): warning C4013: 'gets' undefined; assuming extern returning int
-  addstringi.vcxproj -> C:\BellyPot\C projects on visual studio\addstringi\Debug\addstringi.exe

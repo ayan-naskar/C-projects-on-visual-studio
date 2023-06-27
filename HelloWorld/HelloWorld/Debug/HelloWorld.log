@@ -1,4 +1,0 @@
-﻿  Source.c
-C:\BellyPot\C projects on visual studio\HelloWorld\HelloWorld\Source.c(8,7): warning C4013: 'get_s' undefined; assuming extern returning int
-Source.obj : error LNK2019: unresolved external symbol _get_s referenced in function _main
-C:\BellyPot\C projects on visual studio\HelloWorld\Debug\HelloWorld.exe : fatal error LNK1120: 1 unresolved externals
