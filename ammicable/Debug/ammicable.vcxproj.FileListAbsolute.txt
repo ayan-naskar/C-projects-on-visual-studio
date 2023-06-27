@@ -1,0 +1,2 @@
+C:\BellyPot\C projects on visual studio\ammicable\Debug\ammicable.exe
+C:\BellyPot\C projects on visual studio\ammicable\Debug\ammicable.pdb

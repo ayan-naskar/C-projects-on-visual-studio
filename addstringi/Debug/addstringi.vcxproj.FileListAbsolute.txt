@@ -1,0 +1,2 @@
+C:\BellyPot\C projects on visual studio\addstringi\Debug\addstringi.exe
+C:\BellyPot\C projects on visual studio\addstringi\Debug\addstringi.pdb

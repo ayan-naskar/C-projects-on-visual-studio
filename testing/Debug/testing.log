@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\BellyPot\C projects on visual studio\testing\Source.c(9,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'int *'
+C:\BellyPot\C projects on visual studio\testing\Source.c(9,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'int *'
+C:\BellyPot\C projects on visual studio\testing\Source.c(9,9): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 3 has type 'int *'
+C:\BellyPot\C projects on visual studio\testing\Source.c(10,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\BellyPot\C projects on visual studio\testing\Source.c(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\BellyPot\C projects on visual studio\testing\Source.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  testing.vcxproj -> C:\BellyPot\C projects on visual studio\testing\Debug\testing.exe

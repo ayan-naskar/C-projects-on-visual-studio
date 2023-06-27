@@ -1,0 +1,24 @@
+﻿  Trango.c
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(12,9): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(13,9): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(22,16): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(22,15): warning C4024: 'area': different types for formal and actual parameter 2
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(22,32): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(22,31): warning C4024: 'area': different types for formal and actual parameter 2
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(22,45): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(22,44): warning C4024: 'area': different types for formal and actual parameter 1
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(22,48): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(22,47): warning C4024: 'area': different types for formal and actual parameter 2
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(22,66): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(22,65): warning C4024: 'area': different types for formal and actual parameter 2
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(22,69): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(22,68): warning C4024: 'area': different types for formal and actual parameter 3
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(15,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(17,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(19,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(21,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(31,34): error C2297: '+': illegal, right operand has type 'float (__cdecl *)()'
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(32,12): warning C4013: 'pow' undefined; assuming extern returning int
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(32,55): error C2113: '-': pointer can only be subtracted from another pointer
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(32,62): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\BellyPot\C projects on visual studio\DevinePrograms\Trango.c(36,58): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data

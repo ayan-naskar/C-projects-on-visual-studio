@@ -1,0 +1,2 @@
+C:\BellyPot\C projects on visual studio\DevinePrograms\Debug\DevinePrograms.exe
+C:\BellyPot\C projects on visual studio\DevinePrograms\Debug\DevinePrograms.pdb

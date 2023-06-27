@@ -1,0 +1,2 @@
+C:\BellyPot\C projects on visual studio\TrianglePoint\Debug\TrianglePoint.exe
+C:\BellyPot\C projects on visual studio\TrianglePoint\Debug\TrianglePoint.pdb
